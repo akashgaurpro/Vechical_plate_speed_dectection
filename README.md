@@ -48,11 +48,11 @@ Image Processing:-
 
 
 <img src="https://user-images.githubusercontent.com/66063837/143904736-4b9c1c8e-de32-430a-8a0e-5c53e7f37108.png" width="264.5" height="264.5" alt="image4"/>
-![image](https://user-images.githubusercontent.com/66063837/143904875-e7e618ec-f024-43eb-a2f2-0f14c5d8a3f8.png)
+<img src="https://user-images.githubusercontent.com/66063837/143904875-e7e618ec-f024-43eb-a2f2-0f14c5d8a3f8.png" width="37.5" height="38.5" alt="image44"/>
 <img src="https://user-images.githubusercontent.com/66063837/143904885-065b283f-adb4-4108-aeac-e6601bfb1e9e.png" width="302.36" height="264.5" alt="image5"/>
 
 <h4>FLOW CHART –</h4>
-![image](https://user-images.githubusercontent.com/66063837/143905210-3ea4cebe-6ad9-4150-8a23-89b233217e5c.png)
+<img src="https://user-images.githubusercontent.com/66063837/143905210-3ea4cebe-6ad9-4150-8a23-89b233217e5c.png" width="755.9" height="793.7" alt="image6"/>
 
 <h4>HARDWARE TO BE USED –</h4>
 
