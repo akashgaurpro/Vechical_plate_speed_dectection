@@ -53,7 +53,7 @@ The main aim of this model is detect the speed of the vehicle then plate detecti
 
 
 <h4>FLOW CHART –</h4>
-<img src="https://user-images.githubusercontent.com/66063837/143905210-3ea4cebe-6ad9-4150-8a23-89b233217e5c.png" width="755.9" height="793.7" alt="image6">
+<img src="https://user-images.githubusercontent.com/66063837/143905210-3ea4cebe-6ad9-4150-8a23-89b233217e5c.png" width="831.49" height="831.49" alt="image6">
 
 <h4>HARDWARE TO BE USED –</h4>
 
