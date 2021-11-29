@@ -4,8 +4,8 @@
  Now a days we hear news about accidents on Highways very frequently. And in most of the cases main reason of accident is over speed. Although all highways do have signboards    indicating maximum speed limit for the sake of driver’s safety, but still people does not obey highway speed limit. Our proposed project aims to develop a system that detects vehicles driving at speeds over specified limit and inform concerned authorities immediately. Road accidents occurrences have increased recently so there needs to be a system that  allows to detect over speeding vehicles.
 </p>
 
-<img style="display: inline-block;" src="https://user-images.githubusercontent.com/66063837/143902601-b0437260-7190-4078-9d27-2940158d279b.png" width="302.36" height="264.56" alt="image1">
-<img style="display: inline-block;" src="https://user-images.githubusercontent.com/66063837/143903247-0ac571d1-8f2c-4b90-bc00-6852793f7126.png" width="302.36" height="264.56" alt="image2">
+<img src="https://user-images.githubusercontent.com/66063837/143907598-aebf05f4-bd7e-489d-82d8-22bd4b375a5a.png" width="302.36" height="264.56" alt="image1">
+
 
 <p>
 whereas this proposed system does not need any human interception and 
@@ -26,8 +26,10 @@ by the police and automated roadside 'speed camera' systems which may incorporat
 The main aim of this model is detect the speed of the vehicle then plate detection and store  the data of vehicle person and speed limit details in file considering various factors causing accidents.
 </p>
 
-<img src="https://user-images.githubusercontent.com/66063837/143903746-0e5dcac6-f219-4036-ba8b-c958452258f2.png" width="302.36" height="415.74" alt="image3">
-<img src="https://user-images.githubusercontent.com/66063837/143903924-3c5da624-a8d3-43cc-b1cf-94dc347de145.png" width="302.36" height="415.74" alt="image4">
+<img src="https://user-images.githubusercontent.com/66063837/143907724-2d250592-e976-476d-bb0a-17772e6c4e57.png" width="302.36" height="415.74" alt="image3">
+
+
+
 
 <h4>METHODOLOGY -</h4>
 <p>
@@ -47,9 +49,8 @@ The main aim of this model is detect the speed of the vehicle then plate detecti
 <p>(4)	 Speed Detection</p>
 
 
-<img src="https://user-images.githubusercontent.com/66063837/143904736-4b9c1c8e-de32-430a-8a0e-5c53e7f37108.png" width="264.5" height="264.5" alt="image4">
-<img src="https://user-images.githubusercontent.com/66063837/143904875-e7e618ec-f024-43eb-a2f2-0f14c5d8a3f8.png" width="37.5" height="38.5" alt="image44">
-<img src="https://user-images.githubusercontent.com/66063837/143904885-065b283f-adb4-4108-aeac-e6601bfb1e9e.png" width="302.36" height="264.5" alt="image5">
+<img src="https://user-images.githubusercontent.com/66063837/143907848-eeaf3ed6-f418-423c-87e2-aa2aa191d845.png" width="264.5" height="264.5" alt="image4">
+
 
 <h4>FLOW CHART –</h4>
 <img src="https://user-images.githubusercontent.com/66063837/143905210-3ea4cebe-6ad9-4150-8a23-89b233217e5c.png" width="755.9" height="793.7" alt="image6">
