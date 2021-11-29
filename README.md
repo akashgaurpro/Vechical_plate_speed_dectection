@@ -16,6 +16,8 @@ by the police and automated roadside 'speed camera' systems which may incorporat
 <h4>REASONS :-</h4>
 <p>
 •	Road accidents are one of the disturbing events that constitute major loss. In India, it has become a major problem as it is claiming the lives of innocent people. Controlling the road accidents has become a crucial task.
+</p>
+<p>
 •	One of the reason behind the project is to prevent the road accidents increases day by day due to over speed in prone areas.
 </p>
 
@@ -30,19 +32,19 @@ The main aim of this model is detect the speed of the vehicle then plate detecti
 <h4>METHODOLOGY -</h4>
 <p>
 Image Processing:-
-•	The digital image is then processed to some useful information by applying some image processing techniques. 
-•	After obtaining the image, the grayscale features take place to the input image which is to find the average color value from the three main component color which are red, green and blue (RGB).
-•	After that, the grayscale image is further processed to the binarization and transform the grayscale image to only black and white for future use.
-•	With the image in black and white, the system performs license plate detection by searching through rectangle made up with all four white edges in the image which possibly contains the characters within. 
-•	This step is crucial as the characters may not be detected when the license plate portion is incorrect.
-•	After cropping out the detected license plate, the system segments the characters into individual for the recognition purpose by using Connected Component Analysis (CCA).
-
-Working Steps:-
-(1)	 Image Acquisition 
-(2)	 License Plate Localization
-(3)	 Character Segmentation
-(4)	 Speed Detection
 </p>
+<p>•	The digital image is then processed to some useful information by applying some image processing techniques. </p>
+<p>•	After obtaining the image, the grayscale features take place to the input image which is to find the average color value from the three main component color which are red, green and blue (RGB).</p>
+<p>•	After that, the grayscale image is further processed to the binarization and transform the grayscale image to only black and white for future use.</p>
+<p>•	With the image in black and white, the system performs license plate detection by searching through rectangle made up with all four white edges in the image which possibly contains the characters within. </p>
+<p>•	This step is crucial as the characters may not be detected when the license plate portion is incorrect.</p>
+<p>•	After cropping out the detected license plate, the system segments the characters into individual for the recognition purpose by using Connected Component Analysis (CCA).</p>
+
+<p>Working Steps:-</p>
+<p>(1)	 Image Acquisition </p>
+<p>(2)	 License Plate Localization</p>
+<p>(3)	 Character Segmentation</p>
+<p>(4)	 Speed Detection</p>
 
 
 
