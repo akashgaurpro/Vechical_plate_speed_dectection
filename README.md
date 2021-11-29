@@ -36,21 +36,20 @@ The main aim of this model is detect the speed of the vehicle then plate detecti
 <u style="color:red;">Image Processing:-</u>
 </p>
 <div style="margin-right: 30px;">
- 
-<p>•	The digital image is then processed to some useful information by applying some image processing techniques. </p>
-<p>•	After obtaining the image, the grayscale features take place to the input image which is to find the average color value from the three main component color which are red, green and blue (RGB).</p>
-<p>•	After that, the grayscale image is further processed to the binarization and transform the grayscale image to only black and white for future use.</p>
-<p>•	With the image in black and white, the system performs license plate detection by searching through rectangle made up with all four white edges in the image which possibly contains the characters within. </p>
-<p>•	This step is crucial as the characters may not be detected when the license plate portion is incorrect.</p>
-<p>•	After cropping out the detected license plate, the system segments the characters into individual for the recognition purpose by using Connected Component Analysis (CCA).</p>
+•	The digital image is then processed to some useful information by applying some image processing techniques. </p>
+•	After obtaining the image, the grayscale features take place to the input image which is to find the average color value from the three main component color which are red, green and blue (RGB).</p>
+•	After that, the grayscale image is further processed to the binarization and transform the grayscale image to only black and white for future use.</p>
+•	With the image in black and white, the system performs license plate detection by searching through rectangle made up with all four white edges in the image which possibly contains the characters within. </p>
+•	This step is crucial as the characters may not be detected when the license plate portion is incorrect.</p>
+•	After cropping out the detected license plate, the system segments the characters into individual for the recognition purpose by using Connected Component Analysis (CCA).
 </div>
 
 <p>Working Steps:-</p>
 <div style="margin-right: 30px;">
-<p>(1)	 Image Acquisition </p>
-<p>(2)	 License Plate Localization</p>
-<p>(3)	 Character Segmentation</p>
-<p>(4)	 Speed Detection</p>
+(1)	 Image Acquisition
+(2)	 License Plate Localization
+(3)	 Character Segmentation
+(4)	 Speed Detection
 </div>
 
 
@@ -64,20 +63,20 @@ The main aim of this model is detect the speed of the vehicle then plate detecti
 
 <p>Hardware Requirements –</p>
 <div style="margin-right: 30px;">
- <p>•	Laptop / Mobile</p>
- <p>•	Camera</p>
+ •	Laptop / Mobile
+ •	Camera
  <div style="margin-right: 30px;">
-  <p>•	For Speed Detection</p>
-  <p>•	For Plate Recognition</p>
+  •	For Speed Detection
+  •	For Plate Recognition
  </div>
 </div>
 
 <p>Technologies –</p>
 <div style="margin-right: 30px;">
-<p>•	PYTHON - The programming language to be used.</p>
-<p>•	IMAGE PROCESSING</p>
-<p>•	OpenCV – To identify objects and Number plate etc. </p>
-<p>•	Machine Learning.</p>
+•	PYTHON - The programming language to be used.
+•	IMAGE PROCESSING
+•	OpenCV – To identify objects and Number plate etc.
+•	Machine Learning.
  </div>
 
 
