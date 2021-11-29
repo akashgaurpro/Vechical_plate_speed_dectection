@@ -4,7 +4,7 @@
  Now a days we hear news about accidents on Highways very frequently. And in most of the cases main reason of accident is over speed. Although all highways do have signboards    indicating maximum speed limit for the sake of driver’s safety, but still people does not obey highway speed limit. Our proposed project aims to develop a system that detects vehicles driving at speeds over specified limit and inform concerned authorities immediately. Road accidents occurrences have increased recently so there needs to be a system that  allows to detect over speeding vehicles.
 </p>
 
-<img src="https://user-images.githubusercontent.com/66063837/143907598-aebf05f4-bd7e-489d-82d8-22bd4b375a5a.png" width="302.36" height="264.56" alt="image1">
+<img src="https://user-images.githubusercontent.com/66063837/143907598-aebf05f4-bd7e-489d-82d8-22bd4b375a5a.png" width="604.72" height="264.56" alt="image1">
 
 
 <p>
@@ -26,7 +26,7 @@ by the police and automated roadside 'speed camera' systems which may incorporat
 The main aim of this model is detect the speed of the vehicle then plate detection and store  the data of vehicle person and speed limit details in file considering various factors causing accidents.
 </p>
 
-<img src="https://user-images.githubusercontent.com/66063837/143907724-2d250592-e976-476d-bb0a-17772e6c4e57.png" width="302.36" height="415.74" alt="image3">
+<img src="https://user-images.githubusercontent.com/66063837/143907724-2d250592-e976-476d-bb0a-17772e6c4e57.png" width="604.72" height="264.56" alt="image3">
 
 
 
