@@ -47,6 +47,45 @@ Image Processing:-
 <p>(4)	 Speed Detection</p>
 
 
+<img src="https://user-images.githubusercontent.com/66063837/143904736-4b9c1c8e-de32-430a-8a0e-5c53e7f37108.png" width="264.5" height="264.5" alt="image4"/>
+![image](https://user-images.githubusercontent.com/66063837/143904875-e7e618ec-f024-43eb-a2f2-0f14c5d8a3f8.png)
+<img src="https://user-images.githubusercontent.com/66063837/143904885-065b283f-adb4-4108-aeac-e6601bfb1e9e.png" width="302.36" height="264.5" alt="image5"/>
+
+<h4>FLOW CHART –</h4>
+![image](https://user-images.githubusercontent.com/66063837/143905210-3ea4cebe-6ad9-4150-8a23-89b233217e5c.png)
+
+<h4>HARDWARE TO BE USED –</h4>
+
+<p>Hardware Requirements –</p>
+<p>•	Laptop / Mobile</p>
+<p>•	Camera</p>
+<p>•	For Speed Detection</p>
+<p>•	For Plate Recognition</p>
+
+<p>Technologies –</p>
+<p>•	PYTHON - The programming language to be used.</p>
+<p>•	IMAGE PROCESSING</p>
+<p>•	OpenCV – To identify objects and Number plate etc. </p>
+<p>•	Machine Learning.</p>
+
+
+<h4>REFERENCE AND BIBLIOGRAPHY –</h4>
+
+
+<p>•	https://homepages.inf.ed.ac.uk/rbf/HIPR2/gryimage.htm</p>
+
+<p>•	https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029740</p>
+
+<p>•	https://www.topcoder.com/thrive/articles/python-for-character-recognition-tesseract</p>
+
+<p>•	https://link.springer.com/article/10.1007/s40747-021-00419-5</p>
+
+<p>•	https://www.sciencedirect.com/science/article/pii/S1877050916311103</p>
+
+<p>•	https://www.mygreatlearning.com/blog/opencv-tutorial-in-python/</p>
+
+<p>•	https://www.analyticsvidhya.com/blog/2019/03/opencv-functions-computer-vision-python/</p>
+
 
 
 
