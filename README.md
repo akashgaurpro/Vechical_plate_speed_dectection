@@ -31,7 +31,7 @@ The main aim of this model is detect the speed of the vehicle then plate detecti
 
 <h4>METHODOLOGY -</h4>
 <p>
-<u>Image Processing:-</u>
+<u style="color:red;">Image Processing:-</u>
 </p>
 <p>•	The digital image is then processed to some useful information by applying some image processing techniques. </p>
 <p>•	After obtaining the image, the grayscale features take place to the input image which is to find the average color value from the three main component color which are red, green and blue (RGB).</p>
@@ -40,7 +40,7 @@ The main aim of this model is detect the speed of the vehicle then plate detecti
 <p>•	This step is crucial as the characters may not be detected when the license plate portion is incorrect.</p>
 <p>•	After cropping out the detected license plate, the system segments the characters into individual for the recognition purpose by using Connected Component Analysis (CCA).</p>
 
-<p><u>Working Steps:-</u></p>
+<p><u style="color:red;">Working Steps:-</u></p>
 <p>(1)	 Image Acquisition </p>
 <p>(2)	 License Plate Localization</p>
 <p>(3)	 Character Segmentation</p>
